@@ -1,0 +1,2 @@
+M412 S0 ; disable Filament sensor
+M500 ; save
